@@ -1,6 +1,9 @@
 **Challenge Title:** The Eclipse
+
 **Category:** OSINT / Forensics
+
 **Difficulty:** Easy
+
 **Author:** Abdul Ghani
 
 **Description:**
