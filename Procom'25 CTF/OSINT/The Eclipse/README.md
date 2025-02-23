@@ -11,6 +11,7 @@ Were you paying attention, or did you let it slip away?
 
 
 **Write-Up:**
+
 Challenge Analysis:
 The challenge description suggested that the critical information had already been revealed. The phrase "let it slip away" hinted that the participants might have overlooked a previously shared detail.
 
