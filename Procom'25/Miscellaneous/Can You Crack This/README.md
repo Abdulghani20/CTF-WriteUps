@@ -1,6 +1,9 @@
 **Challenge Title:** Can You Crack This?
+
 **Category:** Steganography
+
 **Difficulty:** Medium
+
 **Author:** Abdul Ghani
 
 **Description:**
