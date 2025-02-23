@@ -1,7 +1,10 @@
 **Challenge Title:** Corporate Veil
+
 **Category:** OSINT 
+
 **Difficulty:** Medium
-Author: Abdul Ghani
+
+**Author:** Abdul Ghani
 
 **Description:**
 The email appears to be from someone at Blackstone, discussing legal reviews and regulatory compliance for an important transaction. It mentions external counsel coordination and emphasizes accuracy. Based on this, what is this challenge asking us to identify?
