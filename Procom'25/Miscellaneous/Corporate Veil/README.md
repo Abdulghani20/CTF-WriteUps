@@ -11,7 +11,7 @@ The email appears to be from someone at Blackstone, discussing legal reviews and
 
 **Hint:**
 Look for the key player handling compliance and legal reviews at Blackstone. Their role ensures accuracy in transactions—find the name behind the responsibility, a small separator can make all the difference.
-
+-------------------------------------------------------------------------
 **Write-Up:**
 Challenge Analysis:
 The challenge provided an email that seemed to originate from a professional at Blackstone, focusing on legal reviews and compliance aspects of a transaction. The key was to identify the individual responsible for these tasks, with a specific emphasis on the use of a "separator."
