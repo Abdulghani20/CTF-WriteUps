@@ -8,6 +8,7 @@
 
 **Description:**
 Here’s a simple math problem for you. Solve it and find the answer! 🤔
+![pic](https://github.com/user-attachments/assets/ff4603a9-d136-4043-b95c-6f984fba0dc1)
 
 -------------------------------------------------------------------------
 **Write-Up:**
